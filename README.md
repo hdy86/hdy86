@@ -2,7 +2,10 @@
 
 ![GitHub Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhdy86&count_bg=%23208ad8&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)
 
-![HDY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdy86&include_all_commits=true&theme=nord&hide_border=true&count_private=true)
+<!-- ![HDY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdy86&include_all_commits=true&theme=nord&hide_border=true&count_private=true) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdy86&langs_count=10&layout=compact&theme=dark)
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:a5ebe9,100:20b6d8&animation=twinkling&fontSize=35&fontColor=fff&fontAlignY=50&fontAlign=50&height=120)
 
