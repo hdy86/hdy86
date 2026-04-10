@@ -21,8 +21,8 @@
 
   <!-- 프레임워크 / 라이브러리 -->
   <h4>📦 Frameworks / Libraries</h4>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=next.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=next.js&logoColor=white" />
 
   <!-- 도구 -->
   <h4>🛠️ Tools</h4>
