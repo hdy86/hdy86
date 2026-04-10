@@ -1,15 +1,13 @@
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:20dbd8,100:f8efed&text=Hello%20:D%20DaYoung's%20GitHub%20😊&animation=twinkling&fontSize=35&fontColor=444&fontAlignY=50&fontAlign=50&height=200)
-
 <div align="center">
+  <!-- 헤더 -->
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=0:20dbd8,100:f8efed&text=Hello%20:D%20DaYoung's%20GitHub%20😊&animation=twinkling&fontSize=35&fontColor=444&fontAlignY=50&fontAlign=50&height=200)
+
   <img src="https://readme-typing-svg.demolab.com?font=Stylish&size=24&color=4EC9B0&background=00000000&center=true&vCenter=true&width=435&height=80&duration=5000&pause=1000&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%3BWelcome+to+my+profile+%F0%9F%99%8C&repeat=true&multiline=false" alt="Typing SVG" />
-</div>
 
 <hr />
 
-<h2 align="center">📚 Tech Stack 📚</h2>
+  <h2 align="center">📚 Tech Stack 📚</h2>
 
-<div align="center">
   <!-- 언어 -->
   <h4>✍🏻 Languages</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -40,27 +38,27 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4a154b?style=flat&logo=slack&logoColor=white" />
-</div>
 
-<hr />
+<br /><hr />
 
-<h2 align="center">📩 Contact 📩</h2>
-
-<div align="center">
+  <h2 align="center">📩 Contact 📩</h2>
+  
   <p><b>Email: </b><a href="mailto:hongs9686@naver.com">hongs9686@naver.com</a></p>
-  <br /><br />
-  <p>Thanks for visiting my profile 😊</p><br />
+  <br />
+  <p>Thanks for visiting my profile 😊</p>
   <p>Let’s grow and learn together! 💪</p>
+
+  <!-- ![GitHub Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhdy86&count_bg=%23208ad8&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false) -->
+  
+  <!-- ![HDY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdy86&include_all_commits=true&theme=nord&hide_border=true&count_private=true) -->
+  
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdy86&langs_count=10&layout=compact&theme=dark) -->
+
+
+  <!-- 푸터 -->
+  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:a5ebe9,100:20b6d8&animation=twinkling&fontSize=35&fontColor=fff&fontAlignY=50&fontAlign=50&height=120)
+
 </div>
-
-<!-- ![GitHub Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhdy86&count_bg=%23208ad8&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false) -->
-
-<!-- ![HDY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdy86&include_all_commits=true&theme=nord&hide_border=true&count_private=true) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdy86&langs_count=10&layout=compact&theme=dark) -->
-
-<!-- 푸터 -->
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:a5ebe9,100:20b6d8&animation=twinkling&fontSize=35&fontColor=fff&fontAlignY=50&fontAlign=50&height=120)
 
 <!--
 #208ad8
