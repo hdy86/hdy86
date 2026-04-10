@@ -4,7 +4,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Stylish&size=24&color=4EC9B0&background=00000000&center=true&vCenter=true&width=435&height=80&duration=5000&pause=1000&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%3BWelcome+to+my+profile+%F0%9F%99%8C&repeat=true&multiline=false" alt="Typing SVG" />
 
-<hr />
+  <hr />
 
   <h2 align="center">📚 Tech Stack 📚</h2>
 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4a154b?style=flat&logo=slack&logoColor=white" />
 
-<br /><hr />
+  <br /><hr />
 
   <h2 align="center">📩 Contact 📩</h2>
   
