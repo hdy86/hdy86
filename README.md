@@ -1,7 +1,13 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:20dbd8,100:f8efed&text=Hello%20:D%20DaYoung's%20GitHub%20😊&animation=twinkling&fontSize=35&fontColor=444&fontAlignY=50&fontAlign=50&height=200)
 
-<h2 align="center">📚 Skills & Tools</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Stylish&size=24&color=4EC9B0&background=00000000&center=true&vCenter=true&width=435&height=80&duration=5000&pause=1000&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%3BWelcome+to+my+profile+%F0%9F%99%8C&repeat=true&multiline=false" alt="Typing SVG" />
+</div>
+
+<hr />
+
+<h2 align="center">📚 Tech Stack 📚</h2>
 
 <div align="center">
   <!-- 언어 -->
@@ -12,20 +18,39 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
   <!-- 프레임워크 / 라이브러리 -->
   <h4>📦 Frameworks / Libraries</h4>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=next.js&logoColor=black" />
 
   <!-- 도구 -->
   <h4>🛠️ Tools</h4>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=cursor&logoColor=white" />
+  
+  <!-- 협업 -->
+  <h4>🤝 Collaborations</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4a154b?style=flat&logo=slack&logoColor=white" />
+</div>
+
+<hr />
+
+<h2 align="center">📩 Contact 📩</h2>
+
+<div align="center">
+  <p><b>Email: </b><a href="mailto:hongs9686@naver.com">hongs9686@naver.com</a></p>
+  <br /><br />
+  <p>Thanks for visiting my profile 😊</p><br />
+  <p>Let’s grow and learn together! 💪</p>
 </div>
 
 <!-- ![GitHub Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhdy86&count_bg=%23208ad8&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false) -->
